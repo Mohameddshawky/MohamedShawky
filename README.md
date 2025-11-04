@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **shawky1mohamed2@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/drive/folders/1jVR_o21jra003Jh15MqrYt9HhaF7RhAe?usp=drive_link](https://drive.google.com/drive/folders/1jVR_o21jra003Jh15MqrYt9HhaF7RhAe?usp=drive_link)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Mohameddshawky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mohameddshawky" height="30" width="40" /></a>
